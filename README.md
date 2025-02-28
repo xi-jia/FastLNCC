@@ -12,5 +12,16 @@ torch.backends.cudnn.allow_tf32 = False
 
 If you find this repo helpful, please consider citing our work.
 ```
-Jia, X., Cheng, X., Duan, J., & Papiez, B. (2025). A Naive Trick to Accelerate Training of LNCC-Based Deep Image Registration Models. Zenodo. https://doi.org/10.5281/zenodo.14916815
+
+@article{JiaFastLNCC2025,
+	doi = {10.20944/preprints202502.2200.v1},
+	url = {https://doi.org/10.20944/preprints202502.2200.v1},
+	year = 2025,
+	month = {February},
+	publisher = {Preprints},
+	author = {Xi Jia and Xinxing Cheng and Jinming Duan and Bartłomiej W. Papież},
+	title = {A Naive Trick to Accelerate Training of LNCC-Based Deep Image Registration Models},
+	journal = {Preprints}
+}
+
 ```
